@@ -1,0 +1,10 @@
+PUT http://localhost/api-qr-tandem-andra/v1/update-qr.php
+Content-Type: "application/json"
+
+{
+    "id": 1,
+    "data": "no me gusta currar",
+    "nombre_ref": "guay",
+    "description": "modifidfgdfgdfgcacion"
+    
+}

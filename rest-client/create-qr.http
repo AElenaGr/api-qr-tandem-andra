@@ -1,0 +1,9 @@
+POST http://localhost/api-qr-tandem-andra/v1/create-qr.php
+Content-Type: "application/json"
+
+{
+    "data": "mi mama me mimaaaaaa",
+    "nombre_ref": "niñezzzz",
+    "description": "frase de cartilla escolar",
+    "created_by": 22
+}

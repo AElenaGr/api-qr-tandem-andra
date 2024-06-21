@@ -1,0 +1,9 @@
+POST http://localhost/api-qr-tandem-andra/v1/register-user.php
+Content-Type: application/json
+
+{
+  "nombre": "paquito el chocolatero",
+  "departamento": "Aranjuez",
+  "email": "medica@penebretomas.com",
+  "password": "asdf"
+}

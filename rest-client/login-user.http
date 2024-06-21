@@ -1,0 +1,7 @@
+GET http://localhost/api-qr-tandem-andra/v1/login-user.php
+Content-Type: "application/json"
+
+{
+"email": "juan.perez@example.com",
+"password": "password123"
+}
